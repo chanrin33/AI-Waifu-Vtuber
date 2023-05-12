@@ -34,7 +34,7 @@ chat = ""
 chat_now = ""
 chat_prev = ""
 is_Speaking = False
-owner_name = "Ardha"
+owner_name = "MIKI"
 blacklist = ["Nightbot", "streamelements"]
 
 # function to get the user's input audio
