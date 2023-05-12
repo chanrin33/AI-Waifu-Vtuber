@@ -22,7 +22,7 @@ from utils.twitch_config import *
 sys.stdout = open(sys.stdout.fileno(), mode='w', encoding='utf8', buffering=1)
 
 # use your own API Key, you can get it from https://openai.com/. I place my API Key in a separate file called config.py
-openai.api_key = api_key
+openai.api_key = oauth:39jrim8sr7382ne2odglf93e0svlv3
 
 conversation = []
 # Create a dictionary to hold the message data
